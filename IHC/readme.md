@@ -3,7 +3,10 @@
 <div>
 <h3> 1 - Visibilidade do Status do sistema </h3>
 <h4> É a responsabilidade do sistema informar o que está acontecendo em real time pro usuário. </h4> <br>
-<img src="/doc/img/mockup_cadastro_funcionario.PNG" alt="Mockups" width="500"> <img src="/doc/img/mockup_cadastro_funcionario.PNG" alt="Mockups" width="500"> <img src="/doc/img/mockup_cadastro_funcionario.PNG" alt="Mockups" width="500">
+<img src="/IHC/imgs/1-Visibilidade Status do Sistema.PNG" alt="Mockups" width="500"> <img src="/IHC/imgs/1-Visibilidade Status do Sistema.PNG" alt="Mockups" width="500">
+<p align="center">
+  <img width="500" src="/IHC/imgs/1-Visibilidade Status do Sistema.PNG">
+</p>
 <ul>
   <li>Na imagem 1 ...</li>
   <li>Na segunda imagem ...</li>
