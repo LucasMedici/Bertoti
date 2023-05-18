@@ -20,13 +20,13 @@
 <div>
 <h3> 3 - Controle e liberdade para o usuário </h3>
 <h4> Nesta heurística, a preocupação é de passar pro usuário a liberdade de ele fazer o que quiser dentro do sistema com exceção das regras que vão contra o negócio ou interferem em outra funcionalidade. </h4> <br>
-<img src="/IHC/imgs/3.png" alt="Mockups" width="500"> <img src="" alt="Mockups" width="500">
+<img src="/IHC/imgs/3.png" alt="Mockups" width="500"> <img src="/IHC/imgs/3.1.png" alt="Mockups" width="500">
 </div>
 
 <div>
 <h3> 4 - Consistência e Padronização </h3>
 <h4>Essa heurística diz respeito a manter uma mesma linguagem durante toda a interface para não confundir o usuário.</h4>
-<img src="" alt="Mockups" width="500"> <img src="" alt="Mockups" width="500">
+<img src="/IHC/imgs/4.png" alt="Mockups" width="500"> <img src="/IHC/imgs/4.1.PNG" alt="Mockups" width="500">
 </div>
 
 <div>
