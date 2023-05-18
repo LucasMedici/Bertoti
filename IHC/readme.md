@@ -77,10 +77,16 @@
 <h4>As mensagens de erro devem ser expressas em uma linguagem simples, sem códigos, clara e que indique precisamente o problema e sugira uma solução.
 </h4>
 <img src="/IHC/imgs/9.PNG" alt="Mockups" width="500"> <img src="/IHC/imgs/9.1.PNG" alt="Mockups" width="500">
+<ul>
+  <li>É muito importante ajudar o usuário a "sair" de um erro para que ele não desista de utilizar seu sistema,assim é necessário dar a ele detalhes de como proceder, sendo eles uma mensagem explicando o erro, ou até mesmo sinalizando uma instabilidade no sistema. </li>
+</ul> 
 </details>  
 
 <details>
 <summary> <h3> 10 - Ajuda e documentação </h3> </summary>
 <h4>A última das heurísticas de Nielsen diz respeito a inclusão de itens de auxílio para o usuário.</h4>
 <img src="/IHC/imgs/10.PNG" alt="Mockups" width="500"> <img src="/IHC/imgs/10.1.PNG" alt="Mockups" width="500">
+<ul>
+  <li>Se todas as heurísticas acima forem corretamente seguidas a documentação acaba não sendo tão importante, porém é necessário sempre que as funcionalidades e objetivos de um site por exemplo estejam detalhas em uma documentação, como vimos nos exemplos acima, com a explicação da função de busca do google, e até mesmo com um site "faq" para que usuário tenham total acesso a duvidas relacionadas a um jogo, no exemplo da imagem, o fifa 23.</li>
+</ul> 
 </details>
