@@ -5,7 +5,7 @@
 <h4> É a responsabilidade do sistema informar o que está acontecendo em real time pro usuário. </h4> <br>
 <img src="/IHC/imgs/1.PNG" alt="Mockups" width="500"> <img src="/IHC/imgs/1.1.PNG" alt="Mockups" width="500">
 <ul>
-  <li>Na imagem 1 ...</li>
+  <li>Na imagem 1 .....</li>
   <li>Na segunda imagem ...</li>
   <li>Na terceira imagem ... </li>
 </ul>  
